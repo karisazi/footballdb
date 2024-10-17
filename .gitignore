@@ -1,0 +1,8 @@
+# environment
+venv
+
+# API Key
+.env
+
+# file
+*.pdf
