@@ -6,3 +6,7 @@ venv
 
 # file
 *.pdf
+
+#erd files
+*.drawio
+*.PNG
