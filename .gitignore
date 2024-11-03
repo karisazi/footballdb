@@ -10,3 +10,9 @@ venv
 #erd files
 *.drawio
 *.PNG
+
+#sql query
+*.sql
+
+
+__pycache__
