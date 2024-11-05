@@ -9,7 +9,7 @@ Tired of sifting through PDF match reports for key stats? FootballDB is the ligh
 
 ## 🚀 Quick Start
 
-## Run footballdb with three inputs: file_directory, database username, and password
+### Run footballdb to your local database
 
 ```python
 from footballdb import extract_football_to_db
