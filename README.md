@@ -3,7 +3,7 @@
 This is footballdb! A package for converting your football match report PDF to a well structured database.
 
 
-## Why?
+## Goals
 Tired of sifting through PDF match reports for key stats? FootballDB is the lightweight package that converts your football reports into structured databases effortlessly. You don’t need to find and type information manually—FootballDB automatically reads all the details from your PDFs. Perfect for enhancing football data management, FootballDB lets you organize and access game insights with ease!
 
 
